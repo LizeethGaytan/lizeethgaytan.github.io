@@ -1,3 +1,3 @@
 # lizeethgaytan
 Portfolio Website
-Using Google Domains and Google Sites. This is a work in progress.
+Using Google Domains, Webflow and hosted on Github. This is a work in progress.
